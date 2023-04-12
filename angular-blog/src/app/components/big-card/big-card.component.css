@@ -11,12 +11,16 @@ align-items: center;
 justify-content: flex-start;
 }
 .big-card__title > h1{
+  color: white;
   font-size: 20px;
   margin-top: 15px;
 }
 .big-card__description >p{
   color: gray;
 margin-top: 10px;
+}
+.big-card__description{
+  margin-top: 20px;
 }
 .big-card__photo > img{
   width: 100%;
